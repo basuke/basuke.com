@@ -1,8 +1,8 @@
 <script>
 import Fa from 'svelte-fa'
-import { faStar } from '@fortawesome/free-solid-svg-icons'
+// import { faStar } from '@fortawesome/free-solid-svg-icons'
 import { faTwitter, faLinkedin, faMedium, faYoutube, faGithub } from '@fortawesome/free-brands-svg-icons';
-    
+
 </script>
 
 <!-- Name and contact information -->
